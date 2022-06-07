@@ -2,4 +2,4 @@
 source_root_dir = '/home/ozanefe/catkin_ws/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/home/ozanefe/catkin_ws/devel;/opt/ros/melodic'.split(';') if '/home/ozanefe/catkin_ws/devel;/opt/ros/melodic' != '' else []
+underlay_workspaces = '/home/ozanefe/Main.Drive/devel;/opt/ros/melodic'.split(';') if '/home/ozanefe/Main.Drive/devel;/opt/ros/melodic' != '' else []
